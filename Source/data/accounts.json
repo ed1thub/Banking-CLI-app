@@ -1,0 +1,23 @@
+[
+    {
+        "account_number": "A000001",
+        "customer_id": "C0001",
+        "balance": 1500.00,
+        "type": "SavingAccount",
+        "interest_rate": 0.02
+    },
+    {
+        "account_number": "A000002",
+        "customer_id": "C0001",
+        "balance": 500.00,
+        "type": "CurrentAccount",
+        "overdraw_limit": 200.00
+    },
+    {
+        "account_number": "A000003",
+        "customer_id": "C0002",
+        "balance": 1200.00,
+        "type": "SavingAccount",
+        "interest_rate": 0.02
+    }
+]

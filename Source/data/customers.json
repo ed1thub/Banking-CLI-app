@@ -1,0 +1,16 @@
+[
+    {
+        "customer_id": "C0001",
+        "name": "Alice Johnson",
+        "address": "123 Maple St, Springfield",
+        "contact": "alice.johnson@example.com",
+        "accounts": ["A000001", "A000002"]
+    },
+    {
+        "customer_id": "C0002",
+        "name": "Bob Smith",
+        "address": "456 Oak Ave, Shelbyville",
+        "contact": "bob.smith@example.com",
+        "accounts": ["A000003"]
+    }
+]
